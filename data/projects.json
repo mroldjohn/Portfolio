@@ -1,0 +1,137 @@
+[
+    {
+        "title":"Project Clothing",
+        "image":"assets/project-clothing/index.png",
+        "status":"v2",
+        "description":"An eshop for a clothing store, featuring a product catalog,category browsing,dynamic data,filter system,login/register and administrative control panel",
+        "pictures":[
+            "assets/project-clothing/index.png",
+            "assets/project-clothing/categories.png",
+            "assets/project-clothing/catfilters.png",
+            "assets/project-clothing/product-cardigan-cart.png",
+            "assets/project-clothing/product-bag-cart.png",
+            "assets/project-clothing/contact.png",
+            "assets/project-clothing/contactstore.png",
+            "assets/project-clothing/dashboard.png",
+            "assets/project-clothing/orders-dashboard.png",
+            "assets/project-clothing/dashfilter.png",
+            "assets/project-clothing/edit-product.png",
+            "assets/project-clothing/latest.png",
+            "assets/project-clothing/login.png",
+            "assets/project-clothing/news.png",
+            "assets/project-clothing/profile.png",
+            "assets/project-clothing/about.png"
+        ],
+        "pictureDescriptions":{
+            "assets/project-clothing/index.png":"Home page using HTML, CSS, PHP layout, JavaScript interactions, and image-based hero sections for the clothing collections.",
+            "assets/project-clothing/categories.png":"Category page using PHP and MySQL data to show product groups with a styled HTML/CSS layout.",
+            "assets/project-clothing/catfilters.png":"Filtered category view using JavaScript controls with PHP/MySQL product data and CSS cards.",
+            "assets/project-clothing/product-cardigan-cart.png":"Product detail page showing image thumbnails, size selection, cart totals, and order controls powered by PHP, MySQL, JavaScript, and CSS.",
+            "assets/project-clothing/product-bag-cart.png":"Bag product detail page with a product gallery, cart containing multiple items, quantity and subtotal data, and checkout controls.",
+            "assets/project-clothing/contact.png":"Contact page using an HTML form, CSS styling, and PHP-ready structure for sending customer messages.",
+            "assets/project-clothing/contactstore.png":"Store contact section using structured HTML, CSS layout, and store information blocks.",
+            "assets/project-clothing/dashboard.png":"Admin dashboard using PHP and MySQL to manage store data with tables and dashboard actions.",
+            "assets/project-clothing/orders-dashboard.png":"Orders dashboard using PHP and MySQL to display order IDs, users, totals, statuses, timestamps, and administrative actions.",
+            "assets/project-clothing/dashfilter.png":"Dashboard filtering page using PHP/MySQL queries with form controls for finding products faster.",
+            "assets/project-clothing/edit-product.png":"Product edit page using PHP forms, MySQL records, and admin controls for updating product details.",
+            "assets/project-clothing/latest.png":"Latest products page using dynamic product data, PHP rendering, and responsive CSS product cards.",
+            "assets/project-clothing/login.png":"Login page using an HTML form, CSS styling, and PHP authentication flow.",
+            "assets/project-clothing/news.png":"News page using PHP-rendered content blocks and CSS cards for store updates.",
+            "assets/project-clothing/profile.png":"Profile page using PHP session data, MySQL user records, and account management layout.",
+            "assets/project-clothing/about.png":"About page using HTML/CSS content sections to present the clothing store brand."
+        },
+        "skills":["JavaScript",
+                "HTML5/CSS",
+                "MySQL",
+                "PHP"],
+        "link":"project.html?project=project-clothing"
+    },
+    {
+        "title":"Hairsupplies Eshop",
+        "image":"assets/hairsupplies/index.png",
+        "status":"v2",
+        "description":"A complete hair-care product site with category browsing, dynamic product views, dashboard CRUD, and a refreshed asset library.",
+        "pictures":[
+            "assets/hairsupplies/index.png",
+            "assets/hairsupplies/catalog.png",
+            "assets/hairsupplies/subcat.png",
+            "assets/hairsupplies/product.png",
+            "assets/hairsupplies/about.png",
+            "assets/hairsupplies/join.png",
+            "assets/hairsupplies/news.png"
+        ],
+        "pictureDescriptions":{
+            "assets/hairsupplies/index.png":"Home page using HTML, CSS, PHP layout, JavaScript interactions, and product-focused salon supply sections.",
+            "assets/hairsupplies/catalog.png":"Catalog page using PHP and MySQL data to display product categories with reusable CSS cards.",
+            "assets/hairsupplies/subcat.png":"Subcategory page using dynamic PHP/MySQL filtering to show a focused product group.",
+            "assets/hairsupplies/product.png":"Product details page using PHP, MySQL product records, and styled product information sections.",
+            "assets/hairsupplies/about.png":"About page using HTML/CSS sections to describe the salon supplies store and its purpose.",
+            "assets/hairsupplies/join.png":"Join page using an HTML form, CSS styling, and PHP-ready user registration structure.",
+            "assets/hairsupplies/news.png":"News page using PHP-rendered updates and CSS blocks for store announcements."
+        },
+        "skills":[
+                "HTML5/CSS",
+                "PHP",
+                "MySQL",
+                "JavaScript"
+                ],
+        "link":"project.html?project=hairsupplies"
+    },
+    {
+        "title":"Movie Library",
+        "image":"assets/movie-library/movies.png",
+        "status":"ongoing",
+        "description":"A React movie library app for browsing a saved collection, adding new movies, selecting multiple genres, searching, sorting, rating, marking favorites, tracking watched status, editing entries inline, and saving the collection with local storage.",
+        "pictures":[
+            "assets/movie-library/movies.png",
+            "assets/movie-library/filters.png",
+            "assets/movie-library/moviesdisplay.png",
+            "assets/movie-library/info.png",
+            "assets/movie-library/edit.png",
+            "assets/movie-library/add.png"      
+        ],
+        "pictureDescriptions":{
+            "assets/movie-library/movies.png":"Main Movie Library dashboard showing collection stats, search, sorting controls, clear action, and movie cards.",
+            "assets/movie-library/filters.png":"Sorting dropdown with options for favorites, alphabetical order, watched status, and release date order.",
+            "assets/movie-library/moviesdisplay.png":"Movie card grid showing titles, multiple genre badges, release dates, ratings, favorites, watched toggles, and detail/edit actions.",
+            "assets/movie-library/info.png":"Expanded movie details view with actor list and description displayed below the main card controls.",
+            "assets/movie-library/edit.png":"Inline edit mode for updating movie title, release date, actors, description, director, and selected genres.",
+            "assets/movie-library/add.png":"Sidebar add-movie form with title, multi-select genre checkboxes, director, actors, description, and release date fields."
+        },
+        "skills":[
+            "React",
+            "HTML5/CSS",
+            "JavaScript"
+        ],
+        "link":"project.html?project=movie-library"
+
+    },
+    {
+        "title":"Library",
+        "image":"assets/library/index.png",
+        "status":"v2",
+        "description":"Book discovery and library management project with catalog pages, categories, profiles and authentication screens.",
+        "pictures":[
+            "assets/library/index.png",
+            "assets/library/catalog.png",
+            "assets/library/book.png",
+            "assets/library/about.png",
+            "assets/library/slider.png"
+        ],
+        "pictureDescriptions":{
+            "assets/library/index.png":"Home page using HTML, CSS, PHP layout, JavaScript interactions, and featured book sections.",
+            "assets/library/catalog.png":"Catalog page using PHP and MySQL data to list books with category-style browsing.",
+            "assets/library/book.png":"Book detail page using PHP/MySQL records to show individual book information.",
+            "assets/library/about.png":"About page using HTML/CSS content sections to explain the library project.",
+            "assets/library/slider.png":"Slider section using JavaScript behavior with HTML/CSS presentation for featured library content."
+        },
+        "skills":[
+                "HTML5/CSS",
+                "PHP",
+                "MySQL",
+                "JavaScript"
+                ],
+        "link":"project.html?project=library"
+    }
+
+]
