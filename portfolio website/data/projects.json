@@ -105,6 +105,32 @@
 
     },
     {
+        "title":"Movie Library React",
+        "image":"assets/movie-library-react/dashboard.png",
+        "status":"v1",
+        "description":"A React movie library app for managing a personal movie collection with search, sorting, favorites, watched status, ratings, editable movie details, and local storage.",
+        "pictures":[
+            "assets/movie-library-react/dashboard.png",
+            "assets/movie-library-react/sorting.png",
+            "assets/movie-library-react/cards.png",
+            "assets/movie-library-react/add.png"
+        ],
+        "pictureDescriptions":{
+            "assets/movie-library-react/dashboard.png":"Main React movie dashboard with total movie count, favorites count, watched count, search, sorting, clear action, and movie cards.",
+            "assets/movie-library-react/sorting.png":"Sorting menu with options for favorites, alphabetical order, watched status, unwatched status, and release date order.",
+            "assets/movie-library-react/cards.png":"Movie card grid showing poster-style icons, titles, genre badges, release dates, star ratings, favorite controls, details buttons, and edit buttons.",
+            "assets/movie-library-react/add.png":"Add movie panel beside the collection, with genre checkboxes and form inputs for creating a new movie entry."
+        },
+        "skills":[
+            "React",
+            "HTML5/CSS",
+            "JavaScript",
+            "Local Storage"
+        ],
+        "link":"project.html?project=movie-library-react"
+
+    },
+    {
         "title":"Library",
         "image":"assets/library/index.png",
         "status":"v2",
